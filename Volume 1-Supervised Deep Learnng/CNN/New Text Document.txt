@@ -1,0 +1,4 @@
+pooling link:
+http://ais.uni-bonn.de/papers/icann2010_maxpool.pdf
+visualize neural network:
+http://scs.ryerson.ca/~aharley/vis/conv/flat.html
